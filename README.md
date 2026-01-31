@@ -125,7 +125,7 @@ multiplication-table/
 
 ## Versionamento e release
 
-O pacote segue **Semantic Versioning**.
+O pacote segue [**Semantic Versioning**]([URL](https://www.alura.com.br/artigos/versionamento-semantico-breve-introducao?srsltid=AfmBOooYCvHUeo2II6vnstANe4tlMhDqCGYttDGiI2qEWiRT5UJiW4RP)).
 
 Para criar uma nova versão:
 
